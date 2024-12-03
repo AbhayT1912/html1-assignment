@@ -1,0 +1,106 @@
+Q1
+Ans: <!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Heading</title>
+</head>
+<body>
+    <h1>HTML defines the content and structure of your website</h1>
+</body>
+</html> 
+
+
+
+Q2
+
+Ans: <!-- Purpose of Comments in HTML
+
+Comments in HTML are non-executable code sections that are ignored by the browser. They are primarily used for:
+
+Explanations: To provide clarity and context for future developers or yourself.
+Debugging: To temporarily disable or mark specific sections of code for troubleshooting.
+Placeholders: To reserve space for future content or code.
+Copyright Notices: To include copyright information or licensing terms.
+
+
+
+Example of Using Comments in HTML -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Comments Example</title>
+</head>
+<body>
+    <p>This is a paragraph of text.</p>
+
+    <h1 style="color: blue;">A Blue Heading</h1>
+</body>
+</html>
+
+Q3
+
+Ans:<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Web Page Layout</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple web page   
+ demonstrating basic HTML elements.</p>
+    <hr>
+    <br>
+    <p>More content can be added below the horizontal line.</p>
+</body>
+</html>
+
+Q4.
+
+Ans: <!-- Write a short note on Tag and element with an example 
+
+Ans : Tags are the building blocks of HTML elements. They are enclosed in angle brackets (<>).
+
+Opening tag: Starts with < and ends with >.
+Closing tag: Starts with </ and ends with >.
+Elements are formed by combining opening and closing tags, along with the content within them. 
+They define the structure and content of an HTML page. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sample Page</h1>
+</body>
+</html>
+
+In this example:
+
+<!-- <h1> and </h1> are the opening and closing tags, respectively.
+The text "This is a heading" is the content.
+Together, they form an h1 element, which defines a level-one heading. -->
+
+Q5
+
+Ans: <!-- What is the DOCTYPE Declaration in HTML?
+
+Ans: A DOCTYPE declaration is an instruction to the web browser about the type of document it is going to parse. It's essential for browsers to render web pages correctly.   
+
+Standardization: It ensures that browsers interpret the HTML code according to specific standards.   
+Rendering Mode: It determines the rendering mode (standards mode or quirks mode) used by the browser, influencing how elements are displayed.   
+Feature Support: It helps browsers identify which HTML features and elements are supported.   
+Common DOCTYPE Declaration for HTML5: -->
+
+<!DOCTYPE html>
+
+<!-- Key Points to Remember: -->
+
+<!-- It must be the very first line in your HTML document.   
+It is case-insensitive.
+It is not an HTML tag, but a declaration.   
+For different HTML versions, the DOCTYPE declaration might vary.   
+By including the correct DOCTYPE declaration, you ensure that your web pages are displayed consistently across different browsers and devices. -->
